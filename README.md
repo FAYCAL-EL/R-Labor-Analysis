@@ -21,3 +21,6 @@ important links
 #### interviews : https://drive.google.com/drive/folders/1RyngXlRibMqR8GnYBZcI8elVSNPT1zoU
 #### surveymonkey : https://www.surveymonkey.com/mp/sample-size-calculator/
 #### questionnaire : https://docs.google.com/forms/d/1JrtjiBt8ArIVxRAvoMo8GMHq35-7wQaXZPhouRqD4CE/edit
+
+## License
+[MIT License](LICENSE)
